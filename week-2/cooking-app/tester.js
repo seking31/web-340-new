@@ -9,6 +9,7 @@
 let recipes;
 try {
   recipes = require("./recipes");
+  console.log(recipes)
 } catch (error) {
   console.error("Failed to import module. Make sure you have exported your module correctly.");
   process.exit(1);

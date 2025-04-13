@@ -1,0 +1,20 @@
+{
+	"name": "week-2",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "node tester.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/seking31/web-340-new.git"
+	},
+	"author": "Sara King",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/seking31/web-340-new/issues"
+	},
+	"homepage": "https://github.com/seking31/web-340-new#readme",
+	"description": ""
+}
