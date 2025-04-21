@@ -1,15 +1,12 @@
 {
-  "name": "pie-baker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "week-5",
+	"version": "1.0.0",
+	"description": "week 5",
+	"main": "pie.js",
+	"scripts": {
+		"start": "node src/pie.js",
+		"test": "node test/pie.spec.js"
+	},
+	"author": "",
+	"license": "ISC"
 }
