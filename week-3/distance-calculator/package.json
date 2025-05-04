@@ -1,0 +1,12 @@
+{
+	"name": "week-3",
+	"version": "1.0.0",
+	"description": "week 3",
+	"main": "distanc-calculator.js",
+	"scripts": {
+		"start": "node  src/distance-calculator",
+		"test": "node test/distance-calculator.spec.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
